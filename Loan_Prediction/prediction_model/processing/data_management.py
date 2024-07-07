@@ -1,6 +1,3 @@
-# functions required for loading the data, saving serialized ML
-# model, and loading deserialized ML model using joblib.
-
 #Import Libraries
 import os
 import pandas as pd
@@ -21,7 +18,7 @@ def save_pipeline(pipeline_to_save):
     save_file_name = 'classification_v1.pkl'
     save_path = os.path.join(config.SAVED_MODEL_PATH, save_file_name)
     joblib.dump(pipeline_to_save, save_path)
-    print("Saved Pipeline:", save_file_name)
+    print("Saved Pipeline : ",save_file_name)
 
 def load_pipeline(pipeline_to_load):
     """Importing pickle file of trained Model"""

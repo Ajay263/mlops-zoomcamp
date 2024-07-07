@@ -12,7 +12,7 @@ DESCRIPTION = 'Train and deploy prediction model.'
 URL = 'https://github.com/Ajay263/mlops-zoomcamp/Loan_Prediction'
 EMAIL = 'junioralexio607@gmail.com'
 AUTHOR = 'Alexio Aaron'
-REQUIRES_PYTHON = '3.6'
+REQUIRES_PYTHON = '>=3.6.0'
 
 here = os.path.abspath(os.path.dirname(__file__))
 
