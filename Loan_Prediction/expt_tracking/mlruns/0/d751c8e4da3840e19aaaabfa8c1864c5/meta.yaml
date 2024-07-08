@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/Loan_Prediction/expt_tracking/mlruns/0/d751c8e4da3840e19aaaabfa8c1864c5/artifacts
+end_time: 1720447548041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d751c8e4da3840e19aaaabfa8c1864c5
+run_name: classy-cow-94
+run_uuid: d751c8e4da3840e19aaaabfa8c1864c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720447468251
+status: 4
+tags: []
+user_id: codespace

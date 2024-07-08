@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/Loan_Prediction/expt_tracking/mlruns/393266024887880649/ed63f377f74d4393adb7ee052fae9f15/artifacts
+end_time: 1720447676594
+entry_point_name: ''
+experiment_id: '393266024887880649'
+lifecycle_stage: active
+run_id: ed63f377f74d4393adb7ee052fae9f15
+run_name: bittersweet-elk-944
+run_uuid: ed63f377f74d4393adb7ee052fae9f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720447591278
+status: 3
+tags: []
+user_id: codespace

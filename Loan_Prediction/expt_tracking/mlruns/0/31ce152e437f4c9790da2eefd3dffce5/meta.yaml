@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/Loan_Prediction/expt_tracking/mlruns/0/31ce152e437f4c9790da2eefd3dffce5/artifacts
+end_time: 1720444047378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31ce152e437f4c9790da2eefd3dffce5
+run_name: DecisionTreeClassifier
+run_uuid: 31ce152e437f4c9790da2eefd3dffce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720444047217
+status: 4
+tags: []
+user_id: codespace

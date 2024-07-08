@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/Loan_Prediction/expt_tracking/mlruns/393266024887880649/34524d25f2414fb28a8d946de1d7935d/artifacts
+end_time: 1720445618986
+entry_point_name: ''
+experiment_id: '393266024887880649'
+lifecycle_stage: active
+run_id: 34524d25f2414fb28a8d946de1d7935d
+run_name: LogisticRegression
+run_uuid: 34524d25f2414fb28a8d946de1d7935d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720445617504
+status: 3
+tags: []
+user_id: codespace

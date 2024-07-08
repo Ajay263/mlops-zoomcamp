@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/Loan_Prediction/expt_tracking/mlruns/0/cc24aa7b0cc34523830438e097430a90/artifacts
+end_time: 1720445180408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc24aa7b0cc34523830438e097430a90
+run_name: RandomForestClassifier
+run_uuid: cc24aa7b0cc34523830438e097430a90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720445178648
+status: 3
+tags: []
+user_id: codespace
